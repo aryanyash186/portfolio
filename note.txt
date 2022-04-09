@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Poppins:wght@300;400&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <section>
+        <div class="divclass">
+            <h1>welcome to</h1>
+            <h1><span class="spans">our</span> websit</h1>
+            <h3 class="spans">senior web development</h3>
+            <p>we can make any kind of web-site with in 24 hours. don't trust me.
+                we have million bad recors. we hope you will satisfied. we already
+                lounced our new course we will teach you that, how you can make different
+                type of web-site easily. we have a team of 10 members</p><br>
+            <a class="ancors" target="blank"
+                href="https://bd.zapmeta.ws/ws?q=website%20designs%20in%20usa&asid=zm_bd_ga_1_cg1_03&mt=b&nw=g&de=c&ap=&ac=2105&cid=14564730944&aid=126338264785&locale=en_BD&gclid=CjwKCAjwur-SBhB6EiwA5sKtjqx2QtEMDSv6GdaiGzi1Pe7r2BpW383cFXcMMA5KT9dL1ZdiGQIaahoCA3EQAvD_BwE">hire
+                me</a>
+        </div>
+        <div class="divclass">
+            <img src="img1.jpg" alt="">
+        </div>
+    </section>
+
+    <section>
+        <div class="divclass">
+            <h1>big dream</h1>
+            <h3 class="spans">worlds class wed dveloper</h3>
+            <p>official site. we have got you covered. from designers, dvelopers and writers to admins and accountants.
+                pay a fixed fee or hourly. the choice is yors. post a project now to get started.50M+ trusted users. 60
+                second quotes. save time & money.</p><br>
+            <a class="ancors" target="blank"
+                href="https://search.visymo.com/ws?q=london%20it%20company&asid=vis_bd_02&mt=b&nw=g&de=c&ap=&ac=15176&cid=12742059306&aid=126460523208&locale=en_BD&ch=420&gclid=CjwKCAjwur-SBhB6EiwA5sKtjnDhW0L9b9YvLWyQpstGIGM0gjsm9BGIxQ9svXZsp4a0aJSswzD8OxoCSJIQAvD_BwE">click
+                me</a>
+        </div>
+        <div class="divclass">
+            <img src="img2.jpg" alt="">
+        </div>
+    </section>
+</body>
+
+</html>
+
+
+
+&
+
+
+body {
+    font-family: 'Karla', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.spans{color: salmon;}
+.divclass{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+img{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+}
+.ancors{
+    text-decoration: none;
+    background-image: linear-gradient(48deg , salmon, tomato);
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
